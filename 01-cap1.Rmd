@@ -147,7 +147,7 @@ O processo de modelagem de um sistema de controle envolve a representação mate
 
 Esses conceitos de modelagem matemática são fundamentais para compreender e projetar malhas de controle eficientes. É importante considerar as características específicas do sistema e utilizar técnicas adequadas de modelagem para obter resultados precisos.
 
-### Funções de Transferência:
+### Funções de Transferência
 
 ```{r, include = TRUE, fig.align='center', echo=FALSE, out.width = '100%'}
 knitr::include_graphics("imagens/funcao_transferencia.jpg")
@@ -159,7 +159,7 @@ Uma função de transferência é definida pela razão das transformadas de Lapl
 
 As funções de transferência são úteis para analisar e projetar sistemas de controle, pois permitem prever como o sistema responderá a diferentes entradas. Com base na função de transferência, é possível realizar análises de estabilidade, determinar a resposta transitória e a resposta em frequência do sistema, calcular margens de estabilidade e projetar controladores adequados.
 
-### Linearização:
+### Linearização
 
 A linearização é o processo de aproximar um sistema não linear com um sistema linear em torno de um ponto de operação específico. Isso é feito para simplificar a análise e o projeto do controle, uma vez que os sistemas lineares são mais bem compreendidos e possuem ferramentas matemáticas mais estabelecidas.
 
