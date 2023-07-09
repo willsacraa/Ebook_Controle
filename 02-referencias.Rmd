@@ -1,0 +1,11 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+
+[1] Seborg, D. E., Edgar, T. F., & Mellichamp, D. A. (2010). Process Dynamics and Control. Wiley.
+
+[2] Stephanopoulos, G. (1996). Chemical Process Control: An Introduction to Theory and Practice. Prentice Hall.
+
+[3] OGATA, Katsuhiko. Engenharia de Controle Moderno, 5a. edição. Editora. LTC. Rio de Janeiro, v. 12, 2011.
+
+[4] Material da disciplina ENG009 - 2023.1
+'`
